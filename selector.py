@@ -1,11 +1,9 @@
-# ユーザーからのコマンド受付(S,A,Q)
+# ユーザーからのコマンド受付(S,A,F,E,D,Q)
 import show
 import add
 import find
 import edit
 import delete
-
-
 # import logging
 
 # logger = logging.getLogger("app")
